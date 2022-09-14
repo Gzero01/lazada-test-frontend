@@ -39,8 +39,8 @@ const Collection = () => {
                 line: "18px",
               }}
             >
-              Jewelries BlinkBlink >
-            </div>
+              Jewelries BlinkBlink {'>'}
+                          </div>
             <div
               style={{
                 margin: "6px auto 0",
